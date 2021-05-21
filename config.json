@@ -1,0 +1,36 @@
+
+
+{
+  "TOKEN": "ODQ0NzgwOTE5NDA2NTkyMDUx.YKXZig.nrN0bJ-iz4cnoCfB6YEyefE1J44",
+  "YOUTUBE_API_KEY": "AIzaSyAMrTCOOEII9quwCOmpeUE3xma9-3b4_gQ",
+
+
+  "EMOJI_ARROW": "➡️",
+  "EMOJI_DONE": "✔️",
+  "EMOJI_ERROR": "🚫",
+  "EMOJI_STARTED_PLAYING": "🎵",
+  "EMOJI_LINE": "📈",
+
+
+  "BOT_ID": "844780919406592051",
+  "BOT_OWNER_ID": "753168925167976479",
+  "SERVER_INVITE": "https://discord.gg/9f6RAPfexB",
+
+  "PREFIX": "fm.",
+  "BOT_PREFIX": "fm.",
+
+
+  "BOT_STATUS2":"fm.",
+  "BOT_STATUS3": "Subscribe to my youtube channel Real Gaming.",
+  
+  "BOT_PRESENCE" : "PLAYING",
+
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 900,
+  "PRUNING": true,
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
+
+
+     
